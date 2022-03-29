@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    margin: 25px;
+}
+.nav{
+    border: 2px solid black;
+    text-decoration: none;
+    color: black;
+}
+.c{
+    margin: 1px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
